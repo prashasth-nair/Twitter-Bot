@@ -12,6 +12,9 @@ This Twitter bot is designed to post Programming Quotes after a interval of time
 
 
 ## Installation
+### Docker:
+Coming Soon.....😁
+### Manually:
 - Clone this repository.
 ```
 git clone https://github.com/prashasth-nair/Twitter-Bot.git
