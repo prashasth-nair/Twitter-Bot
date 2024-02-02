@@ -1,14 +1,14 @@
 
 # Twitter Bot
 
-This Twitter bot is designed to post Programming Quotes after a interval of time automatically. 
+This Twitter bot is intelligently designed to effortlessly share Programming Quotes at scheduled intervals, automating the infusion of coding wisdom into your Twitter feed.
 
 
 ## Features
 
-- Scheduled Tweets
-- Send Programming Quotes
-- Customizable 
+- ***Scheduled Tweets:*** Set it and forget it. The bot ensures a consistent flow of programming inspiration on your Twitter account.
+- ***Send Programming Quotes:*** Choose from a curated collection or add your own favorite programming quotes to share with your followers.
+- ***Customizable:*** Tailor the bot to fit your preferences. Customization is key.
 
 
 ## Installation
